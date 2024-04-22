@@ -31,4 +31,4 @@
   steps:
     - Нажимаем кнопку "Submit".           
   expected-result: |    
-    - Регистрация провалена. Появились сообщения: Nickname required, Email required, Password required, Confirmation required.    
+    - Регистрация провалена. Появились сообщения: Nickname required, Email required, Password required, Confirmation required.  
